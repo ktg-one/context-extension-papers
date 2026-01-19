@@ -22,6 +22,13 @@ This repository hosts working drafts of research papers on context extension, Ch
 - Summary (placeholder):  
   This draft develops a machine-learning–driven design-of-experiments (MLDoE) approach for probing and characterizing LLM behavior and protocol performance across multi-domain, multi-task settings. A more precise title and abstract will be added here once the manuscript is finalized.
 
+---
+
+Endorsements Welcome:
+https://arxiv.org/auth/endorse?x=BY3TPW
+
+---
+
 ## Usage
 
 - You may **read and cite** these drafts, but they are pre-publication and subject to change.
